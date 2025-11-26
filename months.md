@@ -42,9 +42,26 @@ Junior Full Stack Developer
 
 
 
+this are the tasks i did today , create this into professional point to put in daily update , make sure it is direct, concise and keep the vocabulary simple.
+
 
 1.npm vs yarn vs pnpm vs bun vs deno
 FileReader
+
+
+
+
+
+<!-- 26/11/2025 -->
+useId hook
+
+
+<!-- 25/11/2025 -->
+1. QA interviewFor.
+2. Watched the recording of interviewFor client meeting.
+3. Create mini project using Context API and useContext hook.
+4. Create mini project using Portal.
+
 
 
 

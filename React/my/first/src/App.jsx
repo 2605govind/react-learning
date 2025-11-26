@@ -23,6 +23,8 @@ import UserReducer from './component/UserReducer'
 import Counter from './component/usereducer/Counter'
 import UseRef from './component/UseRef'
 import Timer from './component/Timer'
+import useFetch from './hooks/useFetch'
+import UniqueID from './component/UniqueID'
 
 
 export const Data = createContext() // instence
@@ -89,6 +91,9 @@ const App = () => {
   // let age = 18;
 
 
+  // const [data, loadin] = useFetch('https://jsonplaceholder.typicode.com/todos');
+  // if(loadin) return <div>Loading</div>
+  // console.log(data)
  
   return (
     <section id="section">
@@ -189,7 +194,13 @@ const App = () => {
 
 
               {/* <UseRef/> */}
-              <Timer/>
+              {/* <Timer/> */}
+
+
+
+              <UniqueID/>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, cum. Quis, tempora aliquam accusamus laboriosam officia suscipit! Doloribus nulla placeat error, illo rem suscipit, alias, omnis soluta eius dolor deserunt?</p>
+              <UniqueID/>
               
     </section>
   )

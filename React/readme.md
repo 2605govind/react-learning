@@ -75,14 +75,40 @@
 
 
 <!-- useReducer -->
--(3:25:54) useReducer is a hook that is similer to useState, but it is designed for more complex state objects or state transitions that involves multiple sub values. It allow you to manage state in a functional, immutable way
+-(3:25:54) useReducer is a hook that is similer to useState, but  it is designed for more complex state objects or state transitions that involves multiple sub values. It allow you to manage state in a functional, immutable way
   (3:27:19)- const [state, dispatch] = useReducer(reducer (fun), initialState)
 
-
+        
 <!-- useRef -->
 -(3:43:34) useRef hook provide a way to access and interact with DOM elements or to persist values across renders withough causing a re-render.
 
 
+<!-- Custom hooks -->
+-(3:50:54) Custom hooks are javascript function that start with the prefix "use", useFetch, etc.. and can call other hooks within them. They allow you to actract and reuse logic that involves state or side effects, making your component more readable and maintainable.
+
+<!-- useId hook -->
+- (3:56:50) The useId hook in React is used to generate unique IDs for components
+    use => import {useId} from 'react'
+
+
+<!-- React 19 -->
+1. compiler => react 19 now its own compiler, which will not only speed up performance but also automate certain tedious tasks, reducing the workload for developers.
+2. Memorization => with react 19's new ocmpiler, there's no longer a need for memorization the process of optimizing components to prevent unnecessary re-render. Previously, we relied on hooks like `useMemo()` and `useCallback()` for this purpose, but these will now become obsolete.
+3. Metadata => we no longer need to third party packages for SEO and metadata because React 19 now offers built-in support for these features. We can place the tags anywhere within the component and it will work for both the client and server
+4. Directives => React 19 now includes built-in support for use client and use serve directives. This allows components to be rendered on the server, resulting in improved SEO, faster page load times, and more straightforword data fetching we don't need to use (forwardRef, React.lazy, useContext, memo, useEffect, useCallback)
+
+    <!-- use -->
+    The use() hook lets you read and load resources asynchronously, such as promises or context. Unlike other hooks, it can be utilized in loops and conditionals.
+    In certain situations, it can serve as a replacement for useEffect() when fetching data, and it streamlines context useage by allowing you to use use(context) instead of useContext(contex)
+
+5. Actions => React 19 introduces Actions, which are asynchronous function designed to simplify form submissions. Actions can be utilized on both the client and server sides.    
+6. useFormStatus => useFormStatus is a hook that give you status information of the last form submission.
+7. useActionState => useActionState is a hook that allows you to update state based on the result of a form action.
+
+
+
+
+https://medium.com/javarevisited/i-tried-30-system-design-courses-here-are-my-top-5-recommendations-for-2025-3c4971206a39
 
 
 
