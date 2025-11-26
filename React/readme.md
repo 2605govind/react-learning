@@ -107,6 +107,15 @@
 
 
 
+video: 12:34:39
+
+
+
+
+
+
+
+
 
 https://medium.com/javarevisited/i-tried-30-system-design-courses-here-are-my-top-5-recommendations-for-2025-3c4971206a39
 
