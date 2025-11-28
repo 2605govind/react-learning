@@ -42,18 +42,31 @@ Junior Full Stack Developer
 
 
 
-this are the tasks i did today , create this into professional point to put in daily update , make sure it is direct, concise and keep the vocabulary simple.
+this are the tasks i did today , create this into professional point to put in daily update, make sure it is direct, concise and keep the vocabulary simple.
 
 
 1.npm vs yarn vs pnpm vs bun vs deno
 FileReader
 
+<!-- 28/11/2025 -->
+1. Studied Pure Components and Synthetic Events in React.
+2. Reviewed how the Virtual DOM, Shadow DOM, and React Fiber work.
+3. Learned the difference between controlled and uncontrolled components.
+4. Built a small project to manage friend interactions and created APIs to send, accept, and reject requests, display the full friend list, and show notifications.
 
 
+
+
+<!-- 27/11/2025 -->
+1. Explored JavaScript type coercion and learned about short-circuiting techniques.
+2. Studied React design patterns, focusing on Layout Components.
+3. Reviewed Node.js fs module, understanding createReadStream and createWriteStream for file handling.
 
 
 <!-- 26/11/2025 -->
-useId hook
+1. Learned and practiced React hooks: useId, useRef, useReducer; created custom hooks and implemented them in a mini project.
+2. Explored new React 19 features, including the compiler and use() hook.
+3. Performed QA testing for the MillersGrant platform.
 
 
 <!-- 25/11/2025 -->

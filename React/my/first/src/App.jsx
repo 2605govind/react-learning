@@ -147,7 +147,6 @@ const App = () => {
 
 
 
-
       {/* time 2:00:00 */}
       {/* <h1>Title: {movie.title}</h1>
       <h1>Rating: {movie.rating}</h1>

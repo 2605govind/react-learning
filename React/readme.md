@@ -1,3 +1,4 @@
+```
 1. typescript 5 project
 2. react hook form
 3. dae UI
@@ -8,9 +9,6 @@
 8. zeus stand
 9. framer motion
 10. tan stack auery
-
-
-
 
 
 00:00 - Intro
@@ -37,8 +35,11 @@
 42:25:30 - Building Complete Design System For Company
 43:22:40 - FullStack Project
 50:31:53 - Outro
+```
 
 
+<!-- // system thinking
+// small -->
 
 - React is free Open Source javascript library (pre written code) specifically designed for building user interface UI
 
@@ -79,7 +80,7 @@
   (3:27:19)- const [state, dispatch] = useReducer(reducer (fun), initialState)
 
         
-<!-- useRef -->
+<!-- useRef --> 
 -(3:43:34) useRef hook provide a way to access and interact with DOM elements or to persist values across renders withough causing a re-render.
 
 
@@ -108,6 +109,37 @@
 
 
 video: 12:34:39
+
+
+
+# React Design Patterns
+
+<!-- 1. Layout Component -->
+- Layout components are strategies for organizing and composing components that manage the layout structure of a project. These components typically control the positioning and arrengement of child elements within a page, acting as cotainers for other UI elements or sections.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
