@@ -23,16 +23,17 @@ Govind Suthar,
 Junior Full Stack Developer
 
 
-Daily update of Govind Suthar for 21/11/2025
+Daily update of Govind Suthar for 1/12/2025
 
 Good Evening,
 
-Please find below the daily update for 21/11/2025.
+Please find below the daily update for 1/12/2025.
 
-1. Understand JavaScript Essentials: classes, this rules, destructuring, spread, modules, template strings. 
-2. Understand React Fundamentals: JSX, components, lifecycle, props, events, conditional rendering, forms. 
-3. Understand Advanced React: portals, suspense, forwardRef, HOC.
-4. Testing job-app-sms Page in interviewFor platform
+1. Reviewed key Next.js concepts such as SSR, SSG, routing, dynamic routes, route groups, and parallel routes.
+2. Worked with layout structures, the App Router, navigation methods, and client-side directives like "use client".
+3. Practiced managing public assets, using the Image component.
+4. Improved overall understanding of how Next.js renders pages for better performance and SEO.
+
 
 Please let me know if you require any further details or have any questions.
 
@@ -47,6 +48,43 @@ this are the tasks i did today , create this into professional point to put in d
 
 1.npm vs yarn vs pnpm vs bun vs deno
 FileReader
+
+
+
+
+
+Daily update of Govind Suthar for 1/12/2025
+
+Good Evening,
+
+Please find below the daily update for 1/12/2025.
+
+<!-- 1/12/2025 -->
+1. Reviewed key Next.js concepts such as SSR, SSG, routing, dynamic routes, route groups, and parallel routes.
+2. Worked with layout structures, the App Router, navigation methods, and client-side directives like "use client".
+3. Practiced managing public assets, using the Image component.
+4. Improved overall understanding of how Next.js renders pages for better performance and SEO.
+
+
+Please let me know if you require any further details or have any questions.
+
+Thank you,
+Govind Suthar,
+Junior Full Stack Developer
+
+
+<!-- 4/12/2025 -->
+1. Performed QA testing on the InterviewFor platform to verify functionality and identify issues.
+2. Developed a small Next.js project to practice routing.
+3. Continued learning TypeScript concepts and syntax.
+
+
+
+
+<!-- 2/12/2025 -->
+1. Performed QA testing on the InterviewFor platform and reported findings.
+2. Learned key React concepts, including hydration, component composition, and PropTypes.
+3. Practiced Git commands such as checkout, merge, and rebase.
 
 <!-- 28/11/2025 -->
 1. Studied Pure Components and Synthetic Events in React.
