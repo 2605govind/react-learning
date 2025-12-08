@@ -73,6 +73,15 @@ Govind Suthar,
 Junior Full Stack Developer
 
 
+<!-- 8/12/2025 -->
+1. understand react lifecycle 3 phase mount update unmount.
+2. intersectionObserver
+3. 
+
+<!-- 5/12/2025 -->
+1. Performed QA testing on the InterviewFor platform.
+
+
 <!-- 4/12/2025 -->
 1. Performed QA testing on the InterviewFor platform to verify functionality and identify issues.
 2. Developed a small Next.js project to practice routing.
